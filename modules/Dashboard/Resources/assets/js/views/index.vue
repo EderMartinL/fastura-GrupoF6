@@ -5,7 +5,7 @@
         style="display: flex; justify-content: space-between; align-items: center"
         >
             <div>
-                <h2>Dashboard</h2>
+                <h2>SENATI-DASHBOARD</h2>
             </div>
         </header>
         <div class="card mb-0">
@@ -116,7 +116,7 @@
                                         <div class="widget-summary-col" v-if="sale_note">
                                             <div class="row no-gutters">
                                                 <div class="col-md-12 m-b-10">
-                                                    <label>Notas de venta</label>
+                                                    <label>Notas de ventas</label>
                                                 </div>
                                             </div>
                                             <div class="row">
@@ -205,7 +205,7 @@
                                             <div class="summary">
                                                 <div class="row no-gutters">
                                                     <div class="col-md-12 m-b-10">
-                                                        <label>Totales</label>
+                                                        <label>Total de Venta</label>
                                                     </div>
                                                 </div>
                                                 <div class="row">
